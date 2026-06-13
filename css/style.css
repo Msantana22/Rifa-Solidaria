@@ -649,6 +649,10 @@
     .courses-item {
       scroll-snap-align: start;
     }
+
+    .social-sorteio{
+      font-size: 1.8rem;
+    }
   }
   
   @media (min-width: 900px) {
@@ -887,7 +891,7 @@
     padding:1.8rem;
     border-radius:1rem;
     font-size:1.9rem;
-    color: white;
+    color: white !important;
 }
 
 .pix-box button{
@@ -1230,8 +1234,8 @@
     }
   
     .home-content h1 {
-      font-size: 8rem;
-      margin-top: 3rem;
+      font-size: 5rem;
+      margin-top: 0rem;
     }
   
     .home-content p {
