@@ -187,6 +187,7 @@ const rifaGrid = document.getElementById("rifaGrid");
 const numerosSelecionados = [];
 
 const numerosVendidos = [
+    "001",
     "002",
     "003",
     "004",
@@ -234,6 +235,8 @@ const numerosVendidos = [
     "079",
     "084",
     "087",
+    "088",
+    "089",
     "105",
     "106",
     "107",
