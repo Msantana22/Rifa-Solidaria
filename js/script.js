@@ -23,7 +23,7 @@ menuIcon.onclick = () => {
     menuIcon.classList.toggle('bx-x');
     navbar.classList.toggle('active');
 }
-
+ 
 // CURSOS
 // const carousel = document.getElementById("carousel");
 // const nextBtn = document.getElementById("next");
